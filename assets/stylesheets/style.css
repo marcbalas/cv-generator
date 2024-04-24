@@ -251,8 +251,10 @@ ul {
     list-style: none;
 }
 
-a {
+a ,
+a:visited {
     text-decoration: none;
+    color: var(--text-color);
 }
 
 img {
