@@ -561,6 +561,10 @@ img {
 
 .skills_text {
     display: inline-block;
+    /*width: 100px;*/
+}
+.skills_tile {
+    display: inline-block;
     width: 100px;
 }
 
