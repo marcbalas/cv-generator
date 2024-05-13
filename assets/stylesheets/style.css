@@ -561,11 +561,12 @@ img {
 
 .skills_text {
     display: inline-block;
-    /*width: 100px;*/
+    width: 60%;
+    text-align: right;
 }
 .skills_title {
     display: inline-block;
-    width: 100px;
+    width: 35%;
     font-weight: var(--font-medium);
 }
 
